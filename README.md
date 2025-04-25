@@ -12,12 +12,13 @@ In this section compiling and executing C-language as well as assembly language 
 
 
 ## Day3: Digital Logic with TL-Verilog and Makerchip
-For this assignment we had to develop a calculator that also has the features of both memory and recall in addition to performing the operations of sum, diffference, product and quotient. the schematic of the calclator designed is hwon below. To refer to the code one can either access this link [calculator code](https://www.makerchip.com/sandbox/0DkfBhR9B/048hBnP#) or the file calc_lab.tlv in the /Day3 directory.
+For this assignment we had to develop a calculator that also has the features of both memory and recall in addition to performing the operations of sum, diffference, product and quotient. The schematic of the calclator designed is shown below. To refer to the code one can either access this link [calculator code](https://www.makerchip.com/sandbox/0DkfBhR9B/048hBnP#) or the file calc_lab.tlv in the /Day3 directory.
 
 ![alt text](images/calc_diagram.png)
 
 
 ## Day4: Basic RISC-V CPU micro-architecture
+The task here was to implement a basic version of a subset of the instructions comprising the RISC-V ISA. The schematic of the RISC-V CPU microarchitecture designed is shown below. To refer to the code one can either access this link [basic riscv code](https://www.makerchip.com/sandbox/0XDfnh720/0X6hXRo) or the file basic_riscv.tlv in the /Day4 directory.
 
 ![alt text](images/riscv_unpipelined.png)
 
